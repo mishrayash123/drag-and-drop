@@ -42,7 +42,7 @@ h2{
     display: inline-block;
 }
 .imagebox1{
-    background: url('assets/Images/image1.jpg') no-repeat center center/cover;
+    background: url('assets/images/image1.jpg') no-repeat center center/cover;
     width: 10vw;
     height: 20vh;
     margin: 10% auto;
@@ -57,7 +57,7 @@ h2{
   display: inline-block;
 }
 .imagebox2{
-  background: url('assets/Images/image2.jpg') no-repeat center center/cover;
+  background: url('assets/images/image2.jpg') no-repeat center center/cover;
   width: 10vw;
   height: 20vh;
   margin: 10% auto;
@@ -72,7 +72,7 @@ h2{
   display: inline-block;
 }
 .imagebox3{
-  background: url('assets/Images/image3.jpg') no-repeat center center/cover;
+  background: url('assets/images/image3.jpg') no-repeat center center/cover;
   width: 10vw;
   height: 20vh;
   margin: 10% auto;
@@ -87,7 +87,7 @@ h2{
   display: inline-block;
 }
 .imagebox4{
-  background: url('assets/Images/image4.jpg') no-repeat center center/cover;
+  background: url('assets/images/image4.jpg') no-repeat center center/cover;
   width: 10vw;
   height: 20vh;
   margin: 10% auto;
