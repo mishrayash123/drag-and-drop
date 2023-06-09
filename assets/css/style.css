@@ -42,7 +42,7 @@ h2{
     display: inline-block;
 }
 .imagebox1{
-    background: url('assets/images/image1.jpg') no-repeat center center/cover;
+    background: url('/assets/images/image1.jpg') no-repeat center center/cover;
     width: 10vw;
     height: 20vh;
     margin: 10% auto;
